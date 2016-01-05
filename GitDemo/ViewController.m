@@ -13,6 +13,7 @@
 @property (nonatomic, strong) First_ViewController *testClass;
 -(void)sayHello;
 -(void)sayBYEBYE;
+-(void)aVeryCoolMethod;
 @end
 
 @implementation ViewController
@@ -42,5 +43,9 @@
 }
 -(void)sayHello{
     NSLog(@"Hello");
+}
+
+-(void)aVeryCoolMethod{
+    NSLog(@"I'm feeling that you'll discard me... Really?");
 }
 @end
