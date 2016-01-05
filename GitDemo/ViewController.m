@@ -11,6 +11,7 @@
 @interface ViewController ()
 @property (nonatomic) int sum;
 @property (nonatomic, strong) First_ViewController *testClass;
+-(void)sayHello;
 @end
 
 @implementation ViewController
@@ -34,4 +35,7 @@
     // Dispose of any resources that can be recreated.
 }
 
+-(void)sayHello{
+    NSLog(@"Hello");
+}
 @end
