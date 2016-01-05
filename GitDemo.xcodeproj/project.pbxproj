@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AD6002221C3BB2E100DA7EBE /* First_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AD6002201C3BB2E100DA7EBE /* First_ViewController.m */; };
+		AD6002231C3BB2E100DA7EBE /* First_ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AD6002211C3BB2E100DA7EBE /* First_ViewController.xib */; };
 		ADAF46A11C3B989E00F409CE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = ADAF46A01C3B989E00F409CE /* main.m */; };
 		ADAF46A41C3B989E00F409CE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = ADAF46A31C3B989E00F409CE /* AppDelegate.m */; };
 		ADAF46A71C3B989E00F409CE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ADAF46A61C3B989E00F409CE /* ViewController.m */; };
@@ -35,6 +37,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AD60021F1C3BB2E100DA7EBE /* First_ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = First_ViewController.h; sourceTree = "<group>"; };
+		AD6002201C3BB2E100DA7EBE /* First_ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = First_ViewController.m; sourceTree = "<group>"; };
+		AD6002211C3BB2E100DA7EBE /* First_ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = First_ViewController.xib; sourceTree = "<group>"; };
 		ADAF469C1C3B989E00F409CE /* GitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADAF46A01C3B989E00F409CE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		ADAF46A21C3B989E00F409CE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -105,6 +110,9 @@
 				ADAF46A31C3B989E00F409CE /* AppDelegate.m */,
 				ADAF46A51C3B989E00F409CE /* ViewController.h */,
 				ADAF46A61C3B989E00F409CE /* ViewController.m */,
+				AD60021F1C3BB2E100DA7EBE /* First_ViewController.h */,
+				AD6002201C3BB2E100DA7EBE /* First_ViewController.m */,
+				AD6002211C3BB2E100DA7EBE /* First_ViewController.xib */,
 				ADAF46A81C3B989E00F409CE /* Main.storyboard */,
 				ADAF46AB1C3B989E00F409CE /* Assets.xcassets */,
 				ADAF46AD1C3B989E00F409CE /* LaunchScreen.storyboard */,
@@ -246,6 +254,7 @@
 				ADAF46AF1C3B989E00F409CE /* LaunchScreen.storyboard in Resources */,
 				ADAF46AC1C3B989E00F409CE /* Assets.xcassets in Resources */,
 				ADAF46AA1C3B989E00F409CE /* Main.storyboard in Resources */,
+				AD6002231C3BB2E100DA7EBE /* First_ViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,6 +282,7 @@
 				ADAF46A71C3B989E00F409CE /* ViewController.m in Sources */,
 				ADAF46A41C3B989E00F409CE /* AppDelegate.m in Sources */,
 				ADAF46A11C3B989E00F409CE /* main.m in Sources */,
+				AD6002221C3BB2E100DA7EBE /* First_ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -498,6 +508,7 @@
 				ADAF46CB1C3B989E00F409CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ADAF46CC1C3B989E00F409CE /* Build configuration list for PBXNativeTarget "GitDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +517,7 @@
 				ADAF46CE1C3B989E00F409CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ADAF46CF1C3B989E00F409CE /* Build configuration list for PBXNativeTarget "GitDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +526,7 @@
 				ADAF46D11C3B989E00F409CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

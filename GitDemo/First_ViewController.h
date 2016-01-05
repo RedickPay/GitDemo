@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  First_ViewController.h
 //  GitDemo
 //
 //  Created by redick on 2016/1/5.
@@ -7,10 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "First_ViewController.h"
 
-@interface ViewController : UIViewController
-
+@interface First_ViewController : UIViewController
 
 @end
-
