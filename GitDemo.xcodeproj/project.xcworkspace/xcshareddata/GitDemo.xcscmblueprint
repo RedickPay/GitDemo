@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "756847AA85D5C0F4C72BD511DE98830B6DC7B1A5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "63d5cb99-abad-584b-a98e-a951eda1d37a++9904" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "63d5cb99-abad-584b-a98e-a951eda1d37a++9904" : 0,
+    "756847AA85D5C0F4C72BD511DE98830B6DC7B1A5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "52366716-E181-4DFF-BA1B-31F457D0DAEC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "63d5cb99-abad-584b-a98e-a951eda1d37a++9904" : "",
+    "756847AA85D5C0F4C72BD511DE98830B6DC7B1A5" : "GitDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GitDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GitDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/172.16.30.18:9000\/unieye",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "63d5cb99-abad-584b-a98e-a951eda1d37a++9904"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/RedickPay\/GitDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "756847AA85D5C0F4C72BD511DE98830B6DC7B1A5"
+    }
+  ]
+}
